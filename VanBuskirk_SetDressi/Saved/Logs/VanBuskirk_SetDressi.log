@@ -1624,3 +1624,490 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-20.20.11:054][631]Cmd: TRANSACTION UNDO
 [2020.01.28-20.20.11:054][631]LogEditorTransaction: Undo Scale Actors
 [2020.01.28-20.20.13:641][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.20.53:291][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x410)
+[2020.01.28-20.20.56:968][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.22.13:800][391]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/NewMaterial.NewMaterial
+[2020.01.28-20.22.14:229][391]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.22.16:220][391]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.22.16:238][391]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.22.18:200][391]LogSlate: Took 1.098153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.28-20.22.20:894][457]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.22.23:253][597]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.22.23:253][597]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.22.23:253][597]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.22.23:253][597]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.26.20:628][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.01.28-20.26.20:787][115]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometry_Auto1B2EFFD1F434E4007D9788FB8B427FE81.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/Autosaves/Game/WeirdGeometry_Auto1.umap'
+[2020.01.28-20.26.20:792][115]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WeirdGeometry' took 0.185
+[2020.01.28-20.26.20:793][115]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2020.01.28-20.26.20:794][115]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/NewMaterial] ([1] browsable assets)...
+[2020.01.28-20.26.20:806][115]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/NewMaterial.NewMaterial]
+[2020.01.28-20.26.20:806][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/NewMaterial]
+[2020.01.28-20.26.20:823][115]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/NewMaterial_Auto1023577DB4AF8D3008DDD189AB09C5142.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/Autosaves/Game/StarterContent/Materials/NewMaterial_Auto1.uasset'
+[2020.01.28-20.26.20:824][115]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.01.28-20.28.17:631][547]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.17:644][547]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.17:644][547]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.20:638][739]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.22:025][815]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.28.22:025][815]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.28.22:025][815]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.28.22:025][815]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.28.29:632][337]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.29:650][337]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.29:666][337]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.30:627][389]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.31:845][400]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.28-20.28.32:441][432]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.28.32:441][432]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.28.32:441][432]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.28.32:442][432]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.28.35:845][663]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.35:859][663]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.35:862][663]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.37:117][741]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.37:142][741]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.37:228][745]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.38:322][807]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.38:644][823]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.38:663][823]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.39:254][857]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.40:002][902]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.40:023][902]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.40:553][930]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.41:695][996]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.41:806][  2]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.41:827][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.28.41:855][  2]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.28-20.28.42:333][ 28]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.43:613][104]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.44:747][166]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.28.44:856][170]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.28.45:577][210]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.28.46:765][271]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.28.46:765][271]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.28.46:765][271]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.28.46:765][271]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.34.30:171][175]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.30:207][176]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.33:096][368]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.34.34:340][436]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.34.34:340][436]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.34.34:340][436]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.34.34:340][436]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.34.45:645][222]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.45:671][223]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.46:456][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.34.47:889][347]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.34.47:889][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.34.47:889][347]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.34.47:889][347]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.34.50:581][542]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.50:591][542]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.50:594][542]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.51:304][584]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.51:988][625]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.52:039][627]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.52:956][680]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.34.54:391][757]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.54:426][757]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.34.55:225][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.34.56:663][879]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.34.56:663][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.34.56:663][879]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.34.56:663][879]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.34.59:142][ 53]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.34.59:178][ 54]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.00:030][100]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.01:083][156]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.01:656][189]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.03:018][276]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.04:566][360]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.04:566][360]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.04:566][360]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.04:566][360]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.05:701][441]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.05:728][442]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.06:505][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.08:010][567]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.08:011][567]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.08:011][567]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.08:011][567]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.09:182][649]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.09:195][649]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.09:222][650]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.10:052][699]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.11:363][770]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.11:381][770]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.11:385][770]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.11:456][773]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.12:064][804]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.12:699][836]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.12:874][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.13:730][894]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.13:881][902]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.14:694][949]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.16:164][ 24]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.16:164][ 24]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.16:164][ 24]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.16:164][ 24]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.26:514][760]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.26:527][760]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.26:531][760]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.35.27:578][815]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.29:199][907]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.29:199][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.29:199][907]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.29:199][907]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.29:846][950]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.29:864][950]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.35.29:879][950]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.30:993][ 15]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.32:440][ 89]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.32:440][ 89]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.32:440][ 89]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.32:440][ 89]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.34:710][243]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.34:726][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.34:730][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.35.34:756][243]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.28-20.35.35:680][293]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.35.36:996][360]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.35.36:996][360]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.35.36:996][360]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.35.36:996][360]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.35.38:416][455]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2020.01.28-20.35.40:201][455]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.40:254][455]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.35.40:260][455]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.40:276][455]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.35.40:317][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.01.28-20.35.40:327][455]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-20.35.42:624][455]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-20.35.42:624][455]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-20.35.42:626][455]TextureStreamingBuild: Display: Compiling optional shaders took 2.308 seconds.
+[2020.01.28-20.35.42:653][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.01.28-20.35.45:182][455]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/NewMaterial67E8091C4A74F9F09483A8AA834BB796.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/StarterContent/Materials/NewMaterial.uasset'
+[2020.01.28-20.35.46:608][557]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.35.46:615][557]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.35.50:919][901]Cmd: TRANSACTION UNDO
+[2020.01.28-20.35.50:919][901]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.35.55:702][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.01:410][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.04:602][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.01.28-20.36.06:208][977]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.28-20.36.06:218][977]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/StarterContent/Materials/NewMaterial.NewMaterial
+[2020.01.28-20.36.07:427][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.01.28-20.36.07:451][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.01.28-20.36.07:472][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.01.28-20.36.19:766][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.22:581][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.24:092][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.25:114][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.30:653][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.33:149][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.36:054][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.37:693][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.38:679][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.40:519][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.42:820][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.44:221][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.46:562][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.47:622][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.51:416][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.54:214][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.55:573][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.56:444][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.57:626][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.36.59:280][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.03:060][ 52]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.03:060][ 52]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.03:268][ 67]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.03:268][ 67]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.03:478][ 80]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.03:478][ 80]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.03:890][111]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.03:890][111]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.12:323][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.14:994][982]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.14:994][982]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.17:956][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.21:930][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.23:282][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.25:234][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.31:491][365]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.31:491][365]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.31:680][379]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.31:680][379]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.31:861][390]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.31:861][390]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.32:054][405]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.32:054][405]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.32:241][422]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.32:241][422]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.32:407][438]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.32:407][438]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.32:697][466]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.32:697][466]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.33:305][526]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.33:305][526]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.33:810][576]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.33:810][576]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.34:132][606]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.34:132][606]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.34:354][627]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.34:354][627]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.34:697][660]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.34:697][660]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.35:034][693]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.35:034][693]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.36:081][796]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.36:081][796]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.36:381][825]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.36:381][825]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.36:697][856]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.36:697][856]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.36:952][881]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.36:952][881]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.37:219][907]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.37:219][907]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.37:747][959]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.37:747][959]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.37:827][966]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.37:827][966]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.40:091][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.43:412][462]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.43:412][462]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.37.44:942][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.37.47:881][777]Cmd: TRANSACTION UNDO
+[2020.01.28-20.37.47:881][777]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.38.01:571][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.38.50:480][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.38.50:526][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.01.28-20.38.50:682][129]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometry_Auto274EFDB3F450BF3D2EB5F47B2F23BC277.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/Autosaves/Game/WeirdGeometry_Auto2.umap'
+[2020.01.28-20.38.50:686][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WeirdGeometry' took 0.181
+[2020.01.28-20.38.50:686][129]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.181
+[2020.01.28-20.39.02:363][ 83]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/NewMaterial.NewMaterial
+[2020.01.28-20.39.02:366][ 83]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.39.02:419][ 83]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.39.02:434][ 83]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.39.02:461][ 83]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.39.05:031][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.39.06:460][286]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.39.06:460][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.39.06:460][286]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.39.06:460][286]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.39.06:909][318]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.39.06:916][318]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.39.12:227][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.01.28-20.39.13:498][786]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.28-20.39.13:563][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.28-20.42.37:387][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.42.39:422][881]Cmd: TRANSACTION UNDO
+[2020.01.28-20.42.39:422][881]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.42.40:645][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.42.42:456][130]Cmd: TRANSACTION UNDO
+[2020.01.28-20.42.42:456][130]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.42.42:956][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.42.44:586][299]Cmd: TRANSACTION UNDO
+[2020.01.28-20.42.44:586][299]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.42.44:990][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.42.46:713][473]Cmd: TRANSACTION UNDO
+[2020.01.28-20.42.46:713][473]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.42.47:322][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.42.50:536][761]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old1, compiling. 
+[2020.01.28-20.42.51:047][793]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Brick_Clay_Old1.M_Brick_Clay_Old1
+[2020.01.28-20.42.51:053][793]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old1, compiling. 
+[2020.01.28-20.42.52:358][793]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old1, compiling. 
+[2020.01.28-20.42.52:382][793]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old1, compiling. 
+[2020.01.28-20.42.52:433][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_60, compiling. 
+[2020.01.28-20.42.52:439][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_61, compiling. 
+[2020.01.28-20.42.52:445][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_62, compiling. 
+[2020.01.28-20.42.52:451][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_20, compiling. 
+[2020.01.28-20.42.52:457][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_63, compiling. 
+[2020.01.28-20.42.52:462][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_64, compiling. 
+[2020.01.28-20.42.52:468][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_65, compiling. 
+[2020.01.28-20.42.52:474][793]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_21, compiling. 
+[2020.01.28-20.42.54:512][818]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-20.42.56:130][896]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-20.42.57:396][957]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Base pass shader: 135 instructions
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Base pass shader with Surface Lightmap: 163 instructions
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Texture samplers: 7/16
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.01.28-20.42.58:446][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.01.28-20.42.58:966][ 36]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.03:644][312]LogSlate: Window 'M_Brick_Clay_Old1' being destroyed
+[2020.01.28-20.43.03:650][312]LogSlate: Window 'M_Brick_Clay_Old1' being destroyed
+[2020.01.28-20.43.07:513][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.01.28-20.43.08:588][624]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.28-20.43.08:650][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.01.28-20.43.12:693][953]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/NewMaterial.NewMaterial
+[2020.01.28-20.43.12:696][953]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.12:753][953]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.12:768][953]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.12:796][953]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.13:940][ 12]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.15:387][ 88]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.43.15:387][ 88]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.43.15:387][ 88]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.43.15:387][ 88]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.43.26:164][849]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.26:177][849]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.43.26:181][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.27:661][939]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.29:646][ 52]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.43.29:646][ 52]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.43.29:646][ 52]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.43.29:646][ 52]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.43.31:908][216]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.31:928][216]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.31:928][216]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.43.33:153][283]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.33:816][325]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.33:835][325]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.43.34:826][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.36:081][464]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.36:350][478]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.36:371][478]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.43.36:397][478]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.28-20.43.37:049][521]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.37:752][558]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.38:366][590]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.38:390][590]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2020.01.28-20.43.38:690][604]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.39:400][641]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.40:708][716]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.43.40:708][716]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.43.40:708][716]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.43.40:708][716]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.43.49:271][326]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.49:283][326]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.50:212][380]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.51:336][439]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.51:784][463]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.52:887][530]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.54:759][632]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.43.54:759][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.43.54:759][632]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.43.54:759][632]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.43.58:093][865]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.43.58:132][866]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.43.59:151][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.43.59:909][969]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.00:434][996]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.01:282][ 44]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.01:288][ 44]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.02:600][121]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.03:055][144]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.04:329][210]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.44.04:329][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.44.04:329][210]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.44.04:329][210]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.44.05:466][288]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.05:493][289]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.06:436][343]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.07:817][413]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.44.07:817][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.44.07:817][413]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.44.07:817][413]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.44.11:580][681]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.11:594][681]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.11:620][682]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.12:452][732]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.12:653][742]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.12:742][745]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2020.01.28-20.44.12:990][760]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.14:177][826]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.15:400][891]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.15:490][895]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.16:332][943]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.17:633][ 11]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.44.17:633][ 11]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.44.17:633][ 11]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.44.17:633][ 11]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.44.20:246][165]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.20:272][166]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.21:072][213]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.22:526][292]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.01.28-20.44.22:526][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.01.28-20.44.22:526][292]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.44.22:526][292]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.44.22:672][302]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.22:690][302]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.22:690][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_1, compiling. 
+[2020.01.28-20.44.22:721][302]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.23:669][364]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.24:951][438]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.25:052][443]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.25:701][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.26:662][537]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.44.28:781][657]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.01.28-20.44.28:781][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.01.28-20.44.28:781][657]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.01.28-20.44.28:781][657]MaterialEditorStats: Texture samplers: 3/16
+[2020.01.28-20.44.32:730][925]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2020.01.28-20.44.33:098][925]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.33:151][925]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.44.33:160][925]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.33:182][925]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.44.33:221][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.01.28-20.44.33:230][925]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.01.28-20.44.35:663][925]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.01.28-20.44.35:663][925]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.01.28-20.44.35:665][925]TextureStreamingBuild: Display: Compiling optional shaders took 2.444 seconds.
+[2020.01.28-20.44.35:687][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.28-20.44.38:017][925]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/NewMaterial9BA8DB964778A263AD059089C29AEAA0.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/StarterContent/Materials/NewMaterial.uasset'
+[2020.01.28-20.44.38:486][955]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.44.38:493][955]LogSlate: Window 'NewMaterial' being destroyed
+[2020.01.28-20.44.41:151][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.43:009][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.44:630][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.46:439][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.47:612][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.49:135][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.51:435][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.53:373][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.55:443][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.44.58:577][640]Cmd: TRANSACTION UNDO
+[2020.01.28-20.44.58:577][640]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.44.58:582][640]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.ModelComponent_3322' invalid (2866 verts, 0 indices).
+[2020.01.28-20.44.58:582][640]LogPhysics: Warning: Attempt to build physics data for /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.ModelComponent_3322.BodySetup_0 when we are unable to.
+[2020.01.28-20.44.58:774][654]Cmd: TRANSACTION UNDO
+[2020.01.28-20.44.58:774][654]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.44.58:986][668]Cmd: TRANSACTION UNDO
+[2020.01.28-20.44.58:986][668]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.44.59:389][683]Cmd: TRANSACTION UNDO
+[2020.01.28-20.44.59:389][683]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.00:064][749]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.00:064][749]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.00:529][794]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.00:529][794]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.00:882][828]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.00:882][828]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.01:283][867]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.01:283][867]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.01:461][884]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.01:461][884]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.01:873][924]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.01:873][924]LogEditorTransaction: Undo Create Actors
+[2020.01.28-20.45.02:782][ 12]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.02:782][ 12]LogEditorTransaction: Undo Move Node
+[2020.01.28-20.45.05:993][309]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.05:993][309]LogEditorTransaction: Undo Move Node
+[2020.01.28-20.45.07:080][405]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.07:080][405]LogEditorTransaction: Undo Edit Value
+[2020.01.28-20.45.07:085][405]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.01.28-20.45.07:114][406]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.01.28-20.45.09:517][631]Cmd: TRANSACTION UNDO
+[2020.01.28-20.45.09:517][631]LogEditorTransaction: Undo Move Node
+[2020.01.28-20.45.10:199][685]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.01.28-20.45.13:029][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.45.15:020][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.45.42:836][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.01.28-20.45.42:876][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.01.28-20.45.43:038][908]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometryD817A88E4CE5FFA9AD783FB84577057F.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/WeirdGeometry.umap'
+[2020.01.28-20.45.43:069][908]LogFileHelpers: Saving map 'WeirdGeometry' took 0.216
