@@ -934,3 +934,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-19.43.48:528][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2020.01.28-19.43.49:541][696]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometryAE5D58264AFDB8F69A65CF87B5FCF013.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/WeirdGeometry.umap'
 [2020.01.28-19.43.49:663][696]LogFileHelpers: Saving map 'WeirdGeometry' took 1.167
+[2020.01.28-19.44.24:377][862]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-19.44.36:737][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.44.50:664][711]Cmd: TRANSACTION UNDO
+[2020.01.28-19.44.50:664][711]LogEditorTransaction: Undo Move Actors
+[2020.01.28-19.44.52:379][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.45.14:133][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x406)
+[2020.01.28-19.45.15:074][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-19.45.36:793][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x502)
+[2020.01.28-19.45.38:546][892]Cmd: DELETE
+[2020.01.28-19.45.38:546][892]Cmd: ACTOR DELETE
+[2020.01.28-19.45.38:554][892]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.28-19.45.38:585][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.01.28-19.45.38:587][892]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.01.28-19.45.40:816][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x503)
+[2020.01.28-19.45.41:506][236]Cmd: DELETE
+[2020.01.28-19.45.41:506][236]Cmd: ACTOR DELETE
+[2020.01.28-19.45.41:509][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.28-19.45.41:531][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.01.28-19.45.41:531][236]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.01.28-19.45.42:919][402]Cmd: TRANSACTION UNDO
+[2020.01.28-19.45.42:919][402]LogEditorTransaction: Undo Delete Actors
+[2020.01.28-19.45.43:241][427]Cmd: TRANSACTION UNDO
+[2020.01.28-19.45.43:241][427]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-19.45.43:708][480]Cmd: TRANSACTION UNDO
+[2020.01.28-19.45.43:708][480]LogEditorTransaction: Undo Delete Actors
+[2020.01.28-19.45.44:523][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x406)
+[2020.01.28-19.45.45:411][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x406)
+[2020.01.28-19.45.51:058][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.45.53:189][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x503)
+[2020.01.28-19.45.56:899][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.46.06:917][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x412)
+[2020.01.28-19.46.08:640][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.46.13:205][733]Cmd: TRANSACTION UNDO
+[2020.01.28-19.46.13:206][733]LogEditorTransaction: Undo Scale Actors
+[2020.01.28-19.46.15:659][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.46.20:192][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-19.46.22:647][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-19.46.33:350][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.46.35:360][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.46.37:299][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.46.37:307][372]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.28-19.46.41:277][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x409)
+[2020.01.28-19.46.42:903][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-19.46.52:168][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x503)
+[2020.01.28-19.46.52:966][189]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-19.47.14:213][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x502)
+[2020.01.28-19.47.19:250][830]Cmd: EDIT COPY
+[2020.01.28-19.47.19:618][864]Cmd: EDIT PASTE
+[2020.01.28-19.47.23:968][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.47.30:801][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.47.36:222][720]Cmd: TRANSACTION UNDO
+[2020.01.28-19.47.36:222][720]LogEditorTransaction: Undo Move Actors
+[2020.01.28-19.47.44:883][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.47.46:146][842]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.28-19.47.51:060][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.47.58:276][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.47.59:811][363]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.28-19.48.10:350][552]Cmd: DELETE
+[2020.01.28-19.48.10:350][552]Cmd: ACTOR DELETE
+[2020.01.28-19.48.10:355][552]LogEditorActor: Deleted Actor: Brush
+[2020.01.28-19.48.10:377][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.01.28-19.48.10:390][552]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.01.28-19.48.15:397][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.48.29:412][775]Cmd: TRANSACTION UNDO
+[2020.01.28-19.48.29:412][775]LogEditorTransaction: Undo Move Actors
+[2020.01.28-19.48.30:986][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.48.36:996][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x503)
+[2020.01.28-19.48.40:212][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x502)
+[2020.01.28-19.48.51:768][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.48.57:766][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pillar_50x502)
+[2020.01.28-19.48.59:153][230]Cmd: DELETE
+[2020.01.28-19.48.59:153][230]Cmd: ACTOR DELETE
+[2020.01.28-19.48.59:159][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.01.28-19.48.59:183][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.01.28-19.48.59:183][230]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.01.28-19.49.03:838][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.49.12:600][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.21:563][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.26:435][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.27:658][577]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2020.01.28-19.49.30:845][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.38:543][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.43:325][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.49:407][140]LogEditorViewport: Clicking Background
+[2020.01.28-19.49.51:851][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.49.52:910][559]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.01.28-19.49.57:492][101]Cmd: TRANSACTION UNDO
+[2020.01.28-19.49.57:492][101]LogEditorTransaction: Undo Scale Actors
+[2020.01.28-19.49.59:163][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-19.50.04:877][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.50.07:646][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-19.50.10:967][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.50.12:233][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.01.28-19.50.12:241][803]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-19.50.12:271][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.01.28-19.50.12:728][803]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometry71000AC645F2E00F7AFFBBAFADDCF0CB.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/WeirdGeometry.umap'
+[2020.01.28-19.50.12:763][803]LogFileHelpers: Saving map 'WeirdGeometry' took 0.516
