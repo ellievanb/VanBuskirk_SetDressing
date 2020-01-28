@@ -1384,3 +1384,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-20.08.57:450][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2020.01.28-20.08.57:755][854]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometry3E60EF634FBFB24B22B08F8398853C9B.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/WeirdGeometry.umap'
 [2020.01.28-20.08.57:787][854]LogFileHelpers: Saving map 'WeirdGeometry' took 0.367
+[2020.01.28-20.09.24:798][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2020.01.28-20.09.25:491][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.10.11:796][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.10.23:811][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2020.01.28-20.10.24:678][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x405)
+[2020.01.28-20.10.25:164][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x404)
+[2020.01.28-20.10.25:502][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2020.01.28-20.10.26:284][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2020.01.28-20.10.26:648][507]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor_400x401)
+[2020.01.28-20.10.26:689][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.10.27:571][599]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.28-20.10.27:583][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.10.27:583][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.28-20.10.27:583][599]PIE: New page: PIE session: WeirdGeometry (Jan 28, 2020, 10:10:27 AM)
+[2020.01.28-20.10.27:583][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WeirdGeometry
+[2020.01.28-20.10.27:598][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014701s)
+[2020.01.28-20.10.27:599][599]LogAIModule: Creating AISystem for world WeirdGeometry
+[2020.01.28-20.10.27:599][599]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2020.01.28-20.10.27:599][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WeirdGeometry.WeirdGeometry to /Game/UEDPIE_0_WeirdGeometry.WeirdGeometry (0.015554s)
+[2020.01.28-20.10.27:624][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.01.28-20.10.27:646][599]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.28-20.10.27:660][599]LogInit: FAudioDevice initialized.
+[2020.01.28-20.10.27:690][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.28-20.10.27:692][599]LogWorld: Bringing World /Game/UEDPIE_0_WeirdGeometry.WeirdGeometry up for play (max tick rate 0) at 2020.01.28-15.10.27
+[2020.01.28-20.10.27:692][599]LogWorld: Bringing up level for play took: 0.001418
+[2020.01.28-20.10.27:706][599]PIE: Play in editor start time for /Game/UEDPIE_0_WeirdGeometry 0.613
+[2020.01.28-20.10.27:706][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.10.41:269][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.10.41:269][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.10.41:299][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.28-20.10.41:299][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.10.41:325][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.10.41:328][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.28-20.10.41:373][176]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.28-20.10.41:957][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.10.42:032][255]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.28-20.10.42:044][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.10.42:044][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.28-20.10.42:044][255]PIE: New page: PIE session: WeirdGeometry (Jan 28, 2020, 10:10:42 AM)
+[2020.01.28-20.10.42:044][255]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WeirdGeometry
+[2020.01.28-20.10.42:059][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014623s)
+[2020.01.28-20.10.42:059][255]LogAIModule: Creating AISystem for world WeirdGeometry
+[2020.01.28-20.10.42:176][255]LogPlayLevel: PIE: World Init took: (0.117300s)
+[2020.01.28-20.10.42:176][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WeirdGeometry.WeirdGeometry to /Game/UEDPIE_0_WeirdGeometry.WeirdGeometry (0.132072s)
+[2020.01.28-20.10.42:198][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.01.28-20.10.42:218][255]LogInit: XAudio2 using 'AG271QG (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.28-20.10.42:230][255]LogInit: FAudioDevice initialized.
+[2020.01.28-20.10.42:264][255]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.28-20.10.42:267][255]LogWorld: Bringing World /Game/UEDPIE_0_WeirdGeometry.WeirdGeometry up for play (max tick rate 0) at 2020.01.28-15.10.42
+[2020.01.28-20.10.42:267][255]LogWorld: Bringing up level for play took: 0.001583
+[2020.01.28-20.10.42:281][255]PIE: Play in editor start time for /Game/UEDPIE_0_WeirdGeometry 1.188
+[2020.01.28-20.10.42:281][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.11.09:774][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.11.09:775][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.11.09:808][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.28-20.11.09:808][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel' has LevelScriptBlueprint '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry' with GeneratedClass '/Game/WeirdGeometry.WeirdGeometry_C' with ClassGeneratedBy '/Game/WeirdGeometry.WeirdGeometry:PersistentLevel.WeirdGeometry'
+[2020.01.28-20.11.09:834][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.28-20.11.09:837][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.01.28-20.11.09:885][552]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.28-20.11.57:155][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.12.17:246][336]Cmd: TRANSACTION UNDO
+[2020.01.28-20.12.17:246][336]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.12.19:225][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x404)
+[2020.01.28-20.12.19:665][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x405)
+[2020.01.28-20.12.20:120][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.12.23:587][ 37]Cmd: TRANSACTION UNDO
+[2020.01.28-20.12.23:587][ 37]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.12.29:075][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.12.34:651][263]LogSlate: Window 'Select Path' being destroyed
+[2020.01.28-20.12.34:664][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.12.34:768][263]LogStaticMesh: Building static mesh Box_Brush5_StaticMesh...
+[2020.01.28-20.12.34:775][263]LogStaticMesh: Built static mesh [0.01s] /Game/Box_Brush5_StaticMesh.Box_Brush5_StaticMesh
+[2020.01.28-20.12.34:779][263]LogActorFactory: Actor Factory created Box_Brush5_StaticMesh
+[2020.01.28-20.12.34:815][263]LogEditor: Error: Actor 'Brush /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.28-20.12.34:815][263]EditorErrors: New page: Actor Reattachment
+[2020.01.28-20.12.34:840][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.28-20.12.41:274][990]Cmd: TRANSACTION UNDO
+[2020.01.28-20.12.41:275][990]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.12.42:431][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush5_StaticMesh)
+[2020.01.28-20.14.20:347][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.14.21:538][794]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.21:538][794]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.14.23:338][989]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.23:338][989]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.14.24:294][101]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.24:294][101]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.14.25:794][272]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.25:795][272]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.28-20.14.26:801][383]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.26:801][383]LogEditorTransaction: Undo Convert Actors
+[2020.01.28-20.14.31:300][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.14.34:553][270]LogSlate: Window 'Select Path' being destroyed
+[2020.01.28-20.14.34:564][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.14.34:583][270]LogStaticMesh: Building static mesh Box_Brush5_StaticMesh1...
+[2020.01.28-20.14.34:586][270]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush5_StaticMesh1.Box_Brush5_StaticMesh1
+[2020.01.28-20.14.34:591][270]LogActorFactory: Actor Factory created Box_Brush5_StaticMesh1
+[2020.01.28-20.14.34:626][270]LogEditor: Error: Actor 'Brush /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.28-20.14.34:626][270]EditorErrors: New page: Actor Reattachment
+[2020.01.28-20.14.34:652][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.01.28-20.14.38:965][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.14.43:855][200]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Box_Brush5_StaticMesh1)
+[2020.01.28-20.14.43:896][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.14.45:411][345]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-20.14.46:281][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush5_StaticMesh1)
+[2020.01.28-20.14.48:289][671]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.48:289][671]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.14.48:562][694]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.48:562][694]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.14.48:877][720]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.48:877][720]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.01.28-20.14.49:164][748]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.49:164][748]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.14.49:525][785]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.49:525][785]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.14.49:879][825]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.49:879][825]LogEditorTransaction: Undo Convert Actors
+[2020.01.28-20.14.50:205][855]Cmd: TRANSACTION UNDO
+[2020.01.28-20.14.50:205][855]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.14.51:017][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.01.28-20.14.56:499][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.03:421][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.05:185][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.15.10:300][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.15.11:483][215]LogSlate: Window 'Select Path' being destroyed
+[2020.01.28-20.15.11:493][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.11:511][215]LogStaticMesh: Building static mesh Box_Brush5_StaticMesh2...
+[2020.01.28-20.15.11:515][215]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush5_StaticMesh2.Box_Brush5_StaticMesh2
+[2020.01.28-20.15.11:519][215]LogActorFactory: Actor Factory created Box_Brush5_StaticMesh2
+[2020.01.28-20.15.11:560][215]LogEditor: Error: Actor 'Brush /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.01.28-20.15.11:560][215]EditorErrors: New page: Actor Reattachment
+[2020.01.28-20.15.11:586][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.01.28-20.15.12:014][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.15.17:760][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.15.19:022][986]LogSlate: Window 'Select Path' being destroyed
+[2020.01.28-20.15.19:033][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.19:051][986]LogStaticMesh: Building static mesh Box_Brush2_StaticMesh...
+[2020.01.28-20.15.19:053][986]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush2_StaticMesh.Box_Brush2_StaticMesh
+[2020.01.28-20.15.19:057][986]LogActorFactory: Actor Factory created Box_Brush2_StaticMesh
+[2020.01.28-20.15.19:091][986]LogEditor: Error: Actor 'Brush /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.BoxBrush2_4' is marked pending kill and cannot be converted
+[2020.01.28-20.15.19:091][986]EditorErrors: New page: Actor Reattachment
+[2020.01.28-20.15.19:114][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.01.28-20.15.19:552][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.15.22:654][387]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.22:654][387]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.15.24:066][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Box_Brush2_StaticMesh)
+[2020.01.28-20.15.25:027][641]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.25:028][641]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.15.27:476][923]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.27:476][923]LogEditorTransaction: Undo Convert Actors
+[2020.01.28-20.15.29:412][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.15.31:575][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.35:146][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x401)
+[2020.01.28-20.15.39:265][284]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.39:265][284]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.15.39:481][306]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.39:481][306]LogEditorTransaction: Undo Move Actors
+[2020.01.28-20.15.39:812][337]Cmd: TRANSACTION UNDO
+[2020.01.28-20.15.39:812][337]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.28-20.15.48:930][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.53:151][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.28-20.15.58:061][459]LogSlate: Window 'Select Path' being destroyed
+[2020.01.28-20.15.58:070][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.15.58:086][459]LogStaticMesh: Building static mesh Box_Brush2_StaticMesh1...
+[2020.01.28-20.15.58:089][459]LogStaticMesh: Built static mesh [0.00s] /Game/Box_Brush2_StaticMesh1.Box_Brush2_StaticMesh1
+[2020.01.28-20.15.58:093][459]LogActorFactory: Actor Factory created Box_Brush2_StaticMesh1
+[2020.01.28-20.15.58:129][459]LogEditor: Error: Actor 'Brush /Game/WeirdGeometry.WeirdGeometry:PersistentLevel.BoxBrush2_4' is marked pending kill and cannot be converted
+[2020.01.28-20.15.58:129][459]EditorErrors: New page: Actor Reattachment
+[2020.01.28-20.15.58:153][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.28-20.16.03:694][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.28-20.16.07:743][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.16.09:085][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.28-20.16.09:093][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.28-20.16.09:229][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.01.28-20.16.09:403][510]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/WeirdGeometryA944595D4EB5E212DFE6D3AF2042A80D.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/WeirdGeometry.umap'
+[2020.01.28-20.16.09:430][510]LogFileHelpers: Saving map 'WeirdGeometry' took 0.331
+[2020.01.28-20.16.10:216][510]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/Box_Brush5_StaticMesh231C2197E4E412854DB9D48BB9B4EFC32.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/Box_Brush5_StaticMesh2.uasset'
+[2020.01.28-20.16.10:473][510]LogSavePackage: Moving '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Saved/Box_Brush2_StaticMesh118680ED6471DE1A2B36496B1CF6191DB.tmp' to '../../../../../../Users/ekvanbus/Documents/GitHub/VanBuskirk_SetDressing/VanBuskirk_SetDressi/Content/Box_Brush2_StaticMesh1.uasset'
